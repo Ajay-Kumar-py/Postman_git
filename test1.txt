@@ -1,4 +1,4 @@
-I am from Bangalore
-I am QA person
+I am from Delhi
+I am Developer person
 I love food
 I love coding
